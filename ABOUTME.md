@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KrazyKulsum!
-- 👀 🤗 I'm interested in creating games for AppStore and PlayStore!
-- 🌱 😤 I’m currently learning how to use JavaScript
+- 👋 Hi, I’m @KrazyKulsum! 
+- 👀 🤗 I'm interested in creating games for AppStore and PlayStore! I want to create detailed games that are fun to play! 
+- 🌱 😤 I’m currently learning how to use JavaScript. I probably will learn more things later on.
 
 
 <!---
